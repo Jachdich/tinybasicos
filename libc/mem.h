@@ -1,0 +1,1 @@
+extern void memcpy(char * source, char * dest, int num_bytes);
